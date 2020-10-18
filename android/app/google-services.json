@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "737292151388",
+    "firebase_url": "https://flutter-uber-clone-c1826.firebaseio.com",
+    "project_id": "flutter-uber-clone-c1826",
+    "storage_bucket": "flutter-uber-clone-c1826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737292151388:android:33ab401127c28763139499",
+        "android_client_info": {
+          "package_name": "com.example.trip_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737292151388-7g5p6mabtmfrf4igpe1mbealafmglf3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDua-s_gvdRfpoEaekR2JmNmxFw0l3Iqto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737292151388-7g5p6mabtmfrf4igpe1mbealafmglf3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
